@@ -179,7 +179,7 @@ const splitWord = (w: string): Split => {
 const splits = words.map(splitWord);
 
 const LINKS = [
-    {label: "X", href: "https://x.com/DaHuangCore"},
+    {label: "X", href: "https://x.com/djdjabk"},
     {label: "Github", href: "https://github.com/SEYYl"},
 ];
 
