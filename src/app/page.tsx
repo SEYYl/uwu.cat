@@ -5,7 +5,7 @@ import {flushSync} from "react-dom";
 import Script from "next/script";
 import AsciiVideo from "@/app/components/AsciiVideo";
 
-const sentence = "Uplift With Uniqueness . Cats Always Touch";
+const sentence = "Neon Across Nowhere Yields Unseen . Xeno Ignites Now";
 const words = sentence.split(" ");
 
 // ---------------- 缓动 ----------------
@@ -180,7 +180,7 @@ const splits = words.map(splitWord);
 
 const LINKS = [
     {label: "X", href: "https://x.com/DaHuangCore"},
-    {label: "Github", href: "https://github.com/CtrlcvsNya"},
+    {label: "Github", href: "https://github.com/SEYYl"},
 ];
 
 const clamp = (v: number, a: number, b: number) => Math.min(b, Math.max(a, v));
@@ -737,7 +737,7 @@ export default function Home() {
                                             className="mt-2 pl-10 md:pl-12 font-mono text-[11px] leading-relaxed tracking-wide text-white/50"
                                             {...fadeUp(1.0, animated)}
                                         >
-                                            In a cat’s eyes, all things belong to dreams.
+                                            Neon signals from the quiet edge of night.
                                         </motion.p>
                                     </div>
 
@@ -769,7 +769,7 @@ export default function Home() {
                                             className="font-mono text-[10px] uppercase leading-relaxed tracking-[0.16em] text-white/35 md:text-right"
                                             {...fadeUp(1.3, animated)}
                                         >
-                                            © CTRLCVS@UWU.CAT
+                                            © SEYYL@NANYU.XIN
                                             <br/>
                                             not for sale, AI last.
                                         </motion.p>
